@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\androidsdk\platforms\android-23\android.jar"
+        revision="24.0.0 rc4"
+        sha1="eee3e49de0e3c71c5f278ba7e4fe847483f9084c">
+        <dex dex="F:\AndroidStudioProjects\MyApplication\app\build\intermediates\jill\androidTest\debug\runtime\android-45e2706fec94317214b8fb84f0bbc24a3aab3fbb.jar" />
+    </item>
+
+</items>
