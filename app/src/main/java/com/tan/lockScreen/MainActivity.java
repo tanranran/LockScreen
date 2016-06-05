@@ -69,7 +69,6 @@ public class MainActivity extends Activity {
             Bitmap bitmap = Bitmap.createBitmap(300,300,Bitmap.Config.ARGB_8888);
             Canvas canvas = new Canvas(bitmap);
             drawable.draw(canvas);
-
             ActivityManager.TaskDescription tDesc = new ActivityManager.TaskDescription("我就是流氓软件", bitmap, Color.RED);
             setTaskDescription(tDesc);
         }
